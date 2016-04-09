@@ -27,8 +27,12 @@ number-of-students{
         font-weight: bold;
 }
 number-of-girls{
-        color: pink;
+        color: #eb4457;
 }
 number-of-boys{
-        color: light-blue;
+        color: #00ffff;
 }
+
+/*my-age{
+        
+}*/
