@@ -26,6 +26,9 @@ number-of-students{
         font-style: italic;
         font-weight: bold;
 }
-number of girls{
-        color:pink;
+number-of-girls{
+        color: pink;
+}
+number-of-boys{
+        color: light-blue;
 }
