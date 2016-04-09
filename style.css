@@ -21,3 +21,8 @@ where-i-want-to-live{
 location{
         yellow
 }
+
+number-of-students{
+        font-style: italic;
+        font-weight: bold;
+}
